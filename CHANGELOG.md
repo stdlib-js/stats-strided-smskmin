@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-20)
+## Unreleased (2026-01-12)
 
 <section class="features">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`18f7a74`](https://github.com/stdlib-js/stdlib/commit/18f7a74934a8c1d64798818b20e03c353f4db981) - **test:** fix supplied arguments in fifth argument tests _(by Philipp Burckhardt)_
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`afca27e`](https://github.com/stdlib-js/stdlib/commit/afca27e5a12962febf70b6de36e2cea94295b16b) - **docs:** fix example code _(by Philipp Burckhardt)_
 -   [`8718b15`](https://github.com/stdlib-js/stdlib/commit/8718b159e8d9083f3ae5d3c254d1e864af65b15c) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`81d17b1`](https://github.com/stdlib-js/stdlib/commit/81d17b1bba3c9f51cf9d6c9fc0103a6480dd1e5b) - **refactor:** update paths _(by Gururaj Gurram)_
